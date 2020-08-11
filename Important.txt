@@ -1,0 +1,55 @@
+Hello team ,
+Welcome to the new Core Team of AFFIX, I proudly invite you to this module.
+We are into the new era of our life where we are going to work hard and sacrifice some things to get a good future.
+
+This text file consists of some important things that we all have to follow for the next few days i.e., till (Sept 10th 2020).
+
+This team consists of Web Designers and Web Developers of team affix who undergoes for a complete training for some days and the team comprises of :
+1)Ajay Kumar Kolli
+2)Komal Vardhan Lolugu
+3)Supriya Kotni
+4)Lakshmi Prasanna K
+5)Krishna Kishore K
+
+Motto of Target Sept 10 is to complete the following courses and projects in timeand to get complete knowledge on the courses.
+
+Targets :
+1)Completeion of HTML & CSS (12-08-2020 to 15-08-2020)
+  -->Complete courses in Coursera
+	1)Intoduction to HTML 
+	2)Tables & Forms in HTML
+	3)Images and Links in HTML
+	4)Intoduction to CSS in WebDevelopment
+	5)Build your Portfolio Website with HTML & CSS (Try to watch the compleyte session without missing any part and complete the final assignment)
+***All the above courses can be found in Coursera
+ -->Step 1: Open COursera and go to all courses
+ -->Step 2: Select Computerscience and select HTML and in filter option Select Guided project
+ -->Step 3: Select the above Courses and enroll and complete
+
+Project on HTML CSS :
+A project will be assigned to everyone on 14-08-2020 with a different idea or theme and they should try to develop the code in such a way that there should be reusability of code again and again for the future projects.
+The submission of project should be through GitHub and Deadlines are the majorPlayers in the learning time period.
+
+
+
+2)Complete Knowledge of BootStrap :(16-08-2020 to 20-08-2020)
+	-->There will be a 5 day session that everyone will be working on bootstrap to get all the knowledge on it and there will be a Responsive Project to be done at the end of the 	   Target.
+***All the learing platforms are of your choice but getting the Knowledge is the key matter here.***
+
+
+
+3)Intoduction to JavaScript :
+	-->Workin on the js is the challange to all the Team members because no on eknows anything and hence we have decided to put the time to 20days i.e., from 21-08-2020 to 10-09-2020.
+In the time period one has to get understood all about what is javascript and how it is useful to web designer or web developer. He / she has to know how many types are there and they have to know frfom which sources can we get js files etc.
+At the end of the Target everyone has to submit their project or website using javascript which is as same like that can be reusable for the future projects.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------=============================================================================================================================================================================================---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------										Other  Important  Things
+-->One has to manage all the day with academics and he/she has to workfor minimumof 4-5 hrs with full potential.
+-->They has to learn the basics of C & Java Language.
+
+Software to be needed
+-->Any Text Editor (Preferably Sublime or VSCode Editors )
+-->There should be Java installed in your PC.
+-->There should be python installed in your PC.
+-->Everyone has to create a GitHub account and the saving of your codes in GitHub for the future refernces is Mandatory (Please make your Reposiotries private so that you can give access to the people whom you want to give.)
+-->Creating a LinkedIn account and maintaing it is also a mandatory work because LinkedIn is a platform where you can find all the working professionals.
